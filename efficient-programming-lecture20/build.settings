@@ -1,0 +1,3 @@
+/errorReport:prompt /nologo 
+/fp:fast /fp:except- /EHsc /GR /Gr /openmp- /Qpar
+/analyze- /O2 /Gm /MT /Zi
