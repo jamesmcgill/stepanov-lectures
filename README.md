@@ -2,7 +2,6 @@
 My solutions to Alexander Stepanov lectures at A9
 
 My solution for lecture 20 of the Efficient Programming with Components course.
-https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
 
 It's noticeably faster than the submissions of the Amazon employees taking the course for both small and large sets.
 
@@ -28,3 +27,13 @@ Results:
       524288            79        76       103        93        78        90        78        81        78
      1048576            85        83       111       102        83        95        84        83        80
      2097152            88        85       112       103        88        99        88        88        84
+
+
+Lectures:
+https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
+
+Original source:
+
+http://stepanovpapers.com/#Programming_Conversations
+
+https://github.com/rjernst/stepanov-components-course
